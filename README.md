@@ -1,4 +1,7 @@
 # srcnn
+
+遅くなってごめんなさい。卒業論文のコードです。Google Driveにまるごとコピーして、Google Colabノートブック上で実行してください。
+
 Super Resolution for Satellite Imagery
 <br />
 Applying super resolution strategies to sattelite imagery
